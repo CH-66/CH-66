@@ -24,11 +24,16 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
 ![Node.js](https://img.shields.io/badge/Node.js-18-green?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/Git-2.42-red?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/Docker-20.10-blue?style=flat-square&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=flat-square&logo=linux)
+![VS Code](https://img.shields.io/badge/VS%20Code-IDE-blue?style=flat-square&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-API-orange?style=flat-square&logo=postman)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?style=flat-square&logo=postgresql)
+![PyCharm](https://img.shields.io/badge/PyCharm-IDE-green?style=flat-square&logo=pycharm)
 
 ---
-
-## ✨ Fun GIF
-![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
 ## 🏆 Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=ch-66&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
