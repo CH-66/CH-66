@@ -8,13 +8,13 @@
 ---
 
 ## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=jack-yee&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ch-66&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-yee&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-yee&layout=compact&theme=radical)
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch-66&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ch-66&layout=compact&theme=radical)
 
 ---
 
