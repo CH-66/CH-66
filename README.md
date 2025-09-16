@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋, I'm EthanZhang
 
-<!--
-**CH-66/CH-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 About Me
+- 💻 Python Enthusiast
+- 🌱 Interests: AI, Reverse Engineering
+- 🎯 Open-source enthusiast
+- 📫 Contact me: [Email](mailto:jack_yongee@outlook.com)
+---
 
-Here are some ideas to get you started:
+## 🏆 Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=jack-yee&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-yee&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jack-yee&layout=compact&theme=radical)
+
+---
+
+## 💼 Featured Projects
+| Project | Description | Link |
+|---------|-------------|------|
+| nekro-pansou | 一个基于 Nekro Agent 的插件，为 AI 提供统一的网盘资源搜索能力。支持多个网盘类型（百度/阿里云/夸克/天翼等）格式化输出。 | [Repo](https://github.com/CH-66/nekro-pansou) |
+
+---
+
+## 🎨 Skills & Tools
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-18-green?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/Git-2.42-red?style=flat-square&logo=git)
+
+---
+
+## ✨ Fun GIF
+![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
