@@ -7,11 +7,6 @@
 - 📫 Contact me: [Email](mailto:jack_yongee@outlook.com)
 ---
 
-## 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=ch-66&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 📊 GitHub Stats
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=ch-66&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ch-66&layout=compact&theme=radical)
@@ -34,3 +29,8 @@
 
 ## ✨ Fun GIF
 ![Coding GIF](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+
+## 🏆 Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=ch-66&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
